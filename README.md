@@ -3,6 +3,17 @@
 This project analyzes **team performance and tactical trends** in the **2018 and 2022 FIFA World Cups** using open **StatsBomb** event data.  
 By applying data analytics and visualization techniques, it explores how football strategies evolved across tournaments — revealing shifts in passing patterns, possession dynamics, and team styles.
 📘 Notebook available as ZIP: [Download here](notebooks/mental_health_trends.zip)
+# ⚽ Sports Performance Analyzer
+
+...
+
+
+## 📂 Dataset
+This project uses open datasets available from StatsBomb.
+
+- 📊 [StatsBomb Open Data (FIFA World Cups 2018 & 2022)](https://drive.google.com/drive/folders/19rZEoOqm4fGnnCWeTXmzCNt7uhJdFiG5?usp=drive_link)
+- Only sample event data are used for analysis; the full dataset is available at the above link.)
+- I have also added the dataset link in the data folder.
 
 ---
 
